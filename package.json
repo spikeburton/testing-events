@@ -1,0 +1,29 @@
+{
+  "name": "testing-events",
+  "version": "0.1.0",
+  "main": "src.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "keywords": [],
+  "author": "Spike Burton",
+  "license": "ISC",
+  "dependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "testdouble": "^3.12.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spikeburton/testing-events.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spikeburton/testing-events/issues"
+  },
+  "homepage": "https://github.com/spikeburton/testing-events#readme",
+  "description": ""
+}
